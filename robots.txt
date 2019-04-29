@@ -1,0 +1,4 @@
+Sitemap: https://gfrkorea.com/sitemapindex.xml
+
+User-Agent: *
+Host: gfrkorea.com
